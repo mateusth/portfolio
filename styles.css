@@ -7,8 +7,8 @@
   --hover: rgba(0, 0, 0, 1);
 
   --backgroundNavDark: rgb(124, 119, 119);
-  --backgroundDark: rgba(0, 0, 0, 1);
-}
+  --backgroundDark: rgba(38, 37, 37, 0.568);
+}s
 
 .darkNavi {
   color: var(--textNav);
